@@ -33,6 +33,7 @@ How to use:
 2) Double-click to execute
 3) All files will be moved to the root directory, and empty folders will be removed
 
+
 ⚠️ Important Notes
 1) Always back up your files before running these scripts
 2) The scripts affect only the directory where they're placed and its subdirectories
