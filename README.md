@@ -11,11 +11,6 @@ What it does:
 Typical use case:
 When you have a cluttered folder with thousands of mixed file types and want them organized by extension in manageable groups.
 
-How to use:
-1) Place the batch file in your target directory
-2) Double-click to execute
-3) Files will be sorted into extension-named subfolders
-
 
 📂 Extract_files.bat
 What it does:
@@ -29,9 +24,8 @@ Typical use case:
 When you need to flatten a nested directory structure (e.g., after using Archive_files or receiving extracted archive files in multiple subfolders).
 
 How to use:
-1)Place the batch file in the parent directory you want to flatten
+1) Place the batch file in your target directory
 2) Double-click to execute
-3) All files will be moved to the root directory, and empty folders will be removed
 
 
 ⚠️ Important Notes
